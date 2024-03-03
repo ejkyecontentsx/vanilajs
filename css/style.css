@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+.white {
+    color: white;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
